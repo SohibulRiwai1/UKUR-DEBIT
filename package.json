@@ -1,0 +1,10 @@
+{
+  "name": "debit-spam",
+  "version": "1.0.0",
+  "description": "Sistem pencatatan debit mata air & pengolahan (ambang tajam & UFM) dengan rekap bulanan/tahunan dan ekspor Excel",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "dev": "node --watch server.js" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "private": true
+}
